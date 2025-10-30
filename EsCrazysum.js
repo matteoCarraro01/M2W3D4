@@ -12,11 +12,11 @@ function crazySum(num1, num2) {
     }
     return somma
 }
-console.log(crazySum(10, 6))
-console.log(crazySum(10, 10))
+console.log(crazySum(10, 6));
+console.log(crazySum(10, 10));
 
 let sommaCrazy = crazySum(8, 5)
-console.log(sommaCrazy)
+console.log(sommaCrazy);
 
 /* ESERCIZIO 2
  Scrivi una funzione chiamata "boundary", che accetta un numero intero come parametro e ritorna true se tale parametro è incluso tra 20 e 100 (incluso) o se è esattamente uguale a 400.
